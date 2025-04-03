@@ -1,3 +1,4 @@
 # Testrepo
 Git session
-    - Commit Test
+    - commit test
+    - merge test 1
