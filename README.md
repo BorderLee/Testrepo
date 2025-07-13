@@ -1,7 +1,2 @@
-Git session
-    - commit test
-<<<<<<< HEAD
-    - merge test 1
-=======
->>>>>>> 9c72459 (conflict test)
-    - merge test 2
+# 49Days
+KING 15기 하계방학 프로젝트 - 49Days
